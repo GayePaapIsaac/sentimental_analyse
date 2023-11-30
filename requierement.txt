@@ -99,7 +99,7 @@ six==1.16.0
 smmap==5.0.1
 stack-data==0.6.3
 streamlit==1.27.2
-sumy==0.11.0
+sumy
 tenacity==8.2.3
 tensorboard==2.14.1
 tensorboard-data-server==0.7.1
